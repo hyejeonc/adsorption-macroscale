@@ -1,5 +1,5 @@
 # adsorption-macroscale
-Water adsorption study in macroscale 
+Water adsorption in porous material: macroscale studies
 
 
 
